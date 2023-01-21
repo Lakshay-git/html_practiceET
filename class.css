@@ -1,0 +1,4 @@
+th,td,tr,table{
+    border: 3px solid red;
+    background-color:rgb(181, 126, 233);
+}
